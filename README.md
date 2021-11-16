@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Dcubillos12
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Dcubillos12/Dcubillos12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hola Soy Diego Cubillos
+Actualmente Incio el Curso En SoyHenry
+Me interesa todo lo realcionado de la programcaion FullStack
+Y mepueden contactar por este medio gracias
