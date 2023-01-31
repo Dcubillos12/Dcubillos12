@@ -21,3 +21,6 @@ Mi gran motivación es mi familia, son muy importantes para mi desarrollo labora
 Me destaco que aprendo rápido y gracias a mis estudios en HENRY tengo la capacidad de socializar cualquier tecnología ya que cuento con las bases necesarias para entender el desarrollo de librerías y frameworks.
 
 ### JAVASCRIPT - REACT - REDUX - NODE JS - EXPRESS - SEQUELIZE - CSS - HTML
+
+email : dcubillos12@gmail.com
+linkend : www.linkedin.com/in/diego-cubillos-cuellar
