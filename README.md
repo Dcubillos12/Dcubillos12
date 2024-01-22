@@ -16,6 +16,18 @@ ha sido un camino largo en donde he podido conocer diferentes tecnologías como 
 
 Quiero llegar a ser senior de una gran compañía tecnológica y poder liderar equipos aportando mis habilidades blandas y tecnológicas.
 
+Proyectos en los cuales he trabajado
+
+Full Stack Web Developer 
+Ene. 2023 - Abril 2023 - Experiencia académica. Henry Bootcamp
+https://play-expert-henry-pf-ybb9.vercel.app/favorites 
+
+Full Stack Web Developer  Junior 
+Actualmente - desde el abril del 2023 
+Marketplace experiencias de conservación natural
+https://awake.travel/
+
+
 Mi gran motivación es mi familia, son muy importantes para mi desarrollo laboral y personal son mi motor.
 
 Me destaco que aprendo rápido y gracias a mis estudios en HENRY tengo la capacidad de socializar cualquier tecnología ya que cuento con las bases necesarias para entender el desarrollo de librerías y frameworks.
