@@ -1,5 +1,5 @@
 ### Mi nombre es Diego Cubillos
-Full Stack Developer | JavaScript | React | Node JS |
+Full Stack Developer | JavaScript | React | Node JS | TypeScript
 
 ### About Me
 
