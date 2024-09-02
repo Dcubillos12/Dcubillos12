@@ -6,26 +6,19 @@ Full Stack Developer | JavaScript | React | Node JS | TypeScript
 
 Soy persistente - dedicado - trabajador - analista - compañero - amigo
 
-Soy Developers FullStack y analista de bases de datos
-Soy capaz de desarrollar proyectos tecnológicos con bases de datos tanto Front como Back
-mi objetivo es poder pertenecer a una compañía tecnológica para aportar mis conocimientos y aprender nuevas tecnologías.
+Soy un Desarrollador Full Stack y analista de bases de datos con más de 3 años de experiencia en proyectos tecnológicos completos. Me caracterizo por ser persistente, dedicado, trabajador, analista, compañero y amigo. Tengo la capacidad de desarrollar proyectos tecnológicos tanto en el frontend como en el backend, utilizando diversas tecnologías y lenguajes de programación.
 
-Desde hace unos 8 años en mi campo laboral como coordinador de Call Center empece a interesarme en la carrera tecnológica debido que conocí el manejo de bases de datos con fines comerciales y de indicadores es hay en donde nace esta pasión por realizar diferentes proyectos que nos ayudaran a mejor nuestra gestión diaria como equipo y poder mostrar los resultados.
+Mi objetivo es formar parte de una compañía tecnológica líder donde pueda aportar mis conocimientos y continuar aprendiendo nuevas tecnologías. Mi pasión por la tecnología nació hace más de 8 años, mientras trabajaba como coordinador de un Call Center. Durante ese tiempo, me involucré en el manejo de bases de datos con fines comerciales, lo que despertó mi interés por desarrollar proyectos que mejoraran la eficiencia y los resultados de mi equipo.
 
-ha sido un camino largo en donde he podido conocer diferentes tecnologías como lenguajes de programación, inicie con PHP un lenguaje que empece a manejar sin tener mayor conocimiento y guiándome por tutoriales de youtube con el cual puede desarrollar una biblioteca virtual lo que me ayudo a conocer sobre servidores hosting y dominios.
+He recorrido un largo camino en el aprendizaje de tecnologías, comenzando con PHP, donde, a través de tutoriales, desarrollé una biblioteca virtual que me permitió familiarizarme con servidores, hosting, y dominios. Desde entonces, he seguido expandiendo mis habilidades en diversas tecnologías, siempre con la motivación de llegar a ser un desarrollador senior y liderar equipos, combinando mis habilidades técnicas y blandas.
 
-Quiero llegar a ser senior de una gran compañía tecnológica y poder liderar equipos aportando mis habilidades blandas y tecnológicas.
+Full Stack Web Developer - Ene. 2023 - Abr. 2023
+Experiencia académica, Henry Bootcamp
+Play Expert Henry PF
 
-Proyectos en los cuales he trabajado
-
-Full Stack Web Developer 
-Ene. 2023 - Abril 2023 - Experiencia académica. Henry Bootcamp
-https://play-expert-henry-pf-ybb9.vercel.app/favorites 
-
-Full Stack Web Developer  Junior 
-Actualmente - desde el abril del 2023 
-Marketplace experiencias de conservación natural
-https://awake.travel/
+Full Stack Web Developer Junior - Abr. 2023 - Actualidad
+Marketplace de experiencias de conservación natural
+Awake Travel
 
 
 Mi gran motivación es mi familia, son muy importantes para mi desarrollo laboral y personal son mi motor.
