@@ -16,10 +16,12 @@ Full Stack Web Developer - Ene. 2023 - Abr. 2023
 Experiencia académica, Henry Bootcamp
 Play Expert Henry PF
 
-Full Stack Web Developer Junior - Abr. 2023 - Actualidad
+Full Stack Web Developer Junior - Abr. 2023 - Sep. 2024
 Marketplace de experiencias de conservación natural
 Awake Travel
 
+Desarrollador FNG (Fondo Nacional de Garantias) Feb. 2025 - Actualidad
+FNG
 
 Mi gran motivación es mi familia, son muy importantes para mi desarrollo laboral y personal son mi motor.
 
